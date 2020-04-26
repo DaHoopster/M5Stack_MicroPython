@@ -1,7 +1,7 @@
 # Fork of M5Stack Micropython
----
-The original M5Stack version of the MicroPython build, which is based on Lobo MicroPython, doesn't have Bluetooth support. It was not built with IDF 4.X. This is an attempt to upgrade the MicroPython build and enable Bluetooth. :pray:
 
+The original M5Stack version of the MicroPython build, which is based on Lobo MicroPython, doesn't have Bluetooth support. It was not built with IDF 4.X. This is an attempt to upgrade the MicroPython build and enable Bluetooth. :pray:
+---
 # M5Stack Micropython Base [Lobo MicroPython](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo/)
 
 ## Getting Started
