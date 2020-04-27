@@ -2,6 +2,14 @@
 
 The original M5Stack version of the MicroPython build, which is based on Lobo MicroPython, doesn't have Bluetooth support. It was not built with IDF 4.X. This is an attempt to upgrade the MicroPython build and enable Bluetooth. :pray:
 
+## Notes
+[This github issue](https://github.com/lemariva/uPyM5BLE/issues/1) offered some help, but still not exactly clear.
+
+Download the ESP32 SPIRAM IDF4 firmware from the MicroPython firmware [download site](http://micropython.org/download/all/).
+
+Not quite sure how to upgrade the MicroPython version for the M5Stack version... :thinking:
+It's somewhat clear how to freeze the M5Stack specific modules into a MicroPython build, see [this](https://lemariva.com/blog/2020/03/tutorial-getting-started-micropython-v20)
+
 ---
 
 # M5Stack Micropython Base [Lobo MicroPython](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo/)
