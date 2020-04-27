@@ -7,7 +7,8 @@ The original M5Stack version of the MicroPython build, which is based on Lobo Mi
 
 Download the ESP32 SPIRAM IDF4 firmware from the MicroPython firmware [download site](http://micropython.org/download/all/).
 
-Not quite sure how to upgrade the MicroPython version for the M5Stack version... :thinking:
+Not quite sure how to upgrade the MicroPython version for the M5Stack version... :thinking: But it _might_ come down to overriding the MicroPython bin file with the latest built with IDF4.
+
 It's somewhat clear how to freeze the M5Stack specific modules into a MicroPython build, see [this](https://lemariva.com/blog/2020/03/tutorial-getting-started-micropython-v20)
 
 ---
