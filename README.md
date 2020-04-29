@@ -11,6 +11,11 @@ Not quite sure how to upgrade the MicroPython version for the M5Stack version...
 
 It's somewhat clear how to freeze the M5Stack specific modules into a MicroPython build, see [this](https://lemariva.com/blog/2020/03/tutorial-getting-started-micropython-v20)
 
+## Building MicroPython with M5Stack module frozen
+
+1. `brew install git wget ncurses flex bison gperf cmake ninja ccache libffi`
+
+
 ---
 
 # M5Stack Micropython Base [Lobo MicroPython](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo/)
